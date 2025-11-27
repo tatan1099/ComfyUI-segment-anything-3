@@ -714,7 +714,8 @@ class Sam3SegmentationWithDetail:
             black_point=black_point,
             white_point=white_point,
             device=device,
-            max_megapixels=max_megapixels
+            max_megapixels=max_megapixels,
+            keep_model_loaded=keep_model_loaded
         )
 
         # 转回 tensor

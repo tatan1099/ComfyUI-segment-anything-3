@@ -13,6 +13,47 @@ from PIL import Image
 from pathlib import Path
 
 import folder_paths
+import comfy.model_management as mm
+
+
+# ============== 全局模型缓存 ==============
+
+_vitmatte_model_cache = None
+
+
+def get_vitmatte_model(device: str = "cuda"):
+    """获取 VITMatte 模型（带缓存）"""
+    global _vitmatte_model_cache
+
+    if _vitmatte_model_cache is None:
+        print("VITMatte: 首次加载模型...")
+        _vitmatte_model_cache = load_VITMatte_model(local_files_only=True)
+
+    # 移动到目标设备
+    if device == "cuda" and torch.cuda.is_available():
+        torch_device = torch.device('cuda')
+    else:
+        torch_device = torch.device('cpu')
+
+    _vitmatte_model_cache.model.to(torch_device)
+    return _vitmatte_model_cache, torch_device
+
+
+def unload_vitmatte_model():
+    """卸载 VITMatte 模型释放内存"""
+    global _vitmatte_model_cache
+
+    if _vitmatte_model_cache is not None:
+        # 移到 CPU 并删除
+        _vitmatte_model_cache.model.to('cpu')
+        del _vitmatte_model_cache
+        _vitmatte_model_cache = None
+
+        # 清理显存
+        if torch.cuda.is_available():
+            torch.cuda.empty_cache()
+
+        print("VITMatte: 模型已卸载")
 
 
 # ============== Tensor/PIL 转换 ==============
@@ -27,7 +68,8 @@ def tensor2pil(tensor: torch.Tensor) -> Image.Image:
     if tensor.dim() == 2:
         tensor = tensor.unsqueeze(-1)
 
-    np_image = (tensor.cpu().numpy() * 255).clip(0, 255).astype(np.uint8)
+    # 转换为 float32（处理 bfloat16 等不支持的类型）
+    np_image = (tensor.cpu().float().numpy() * 255).clip(0, 255).astype(np.uint8)
 
     if np_image.shape[-1] == 1:
         return Image.fromarray(np_image.squeeze(-1), mode='L')
@@ -170,27 +212,14 @@ def generate_VITMatte(
         trimap = trimap.resize((target_width, target_height), Image.BILINEAR)
         print(f"VITMatte: 图像 {width}x{height} 过大，降采样至 {target_width}x{target_height}")
 
-    # 设置设备
-    if device == "cuda" and torch.cuda.is_available():
-        torch_device = torch.device('cuda')
-    else:
-        torch_device = torch.device('cpu')
-        if device == "cuda":
-            print("VITMatte: CUDA 不可用，使用 CPU")
-
-    # 加载模型（本地模式）
-    vit_matte_model = load_VITMatte_model(local_files_only=True)
-    vit_matte_model.model.to(torch_device)
+    # 获取缓存的模型
+    vit_matte_model, torch_device = get_vitmatte_model(device)
 
     # 推理
     inputs = vit_matte_model.processor(images=image, trimaps=trimap, return_tensors="pt")
     with torch.no_grad():
         inputs = {k: v.to(torch_device) for k, v in inputs.items()}
         predictions = vit_matte_model.model(**inputs).alphas
-
-    # 清理显存
-    if torch.cuda.is_available():
-        torch.cuda.empty_cache()
 
     # 后处理
     mask = tensor2pil(predictions).convert('L')
@@ -237,7 +266,8 @@ def process_mask_with_vitmatte(
     black_point: float = 0.15,
     white_point: float = 0.99,
     device: str = "cuda",
-    max_megapixels: float = 2.0
+    max_megapixels: float = 2.0,
+    keep_model_loaded: bool = False
 ) -> Image.Image:
     """
     使用 VITMatte 对 mask 进行边缘细化的完整流程
@@ -251,6 +281,7 @@ def process_mask_with_vitmatte(
         white_point: 直方图重映射白点
         device: 计算设备
         max_megapixels: VITMatte 最大处理像素数
+        keep_model_loaded: 是否保持模型加载
 
     Returns:
         细化后的 mask (PIL Image, L mode)
@@ -265,5 +296,10 @@ def process_mask_with_vitmatte(
     refined_mask_tensor = pil2tensor(refined_mask)
     refined_mask_tensor = histogram_remap(refined_mask_tensor, black_point, white_point)
     refined_mask = tensor2pil(refined_mask_tensor).convert('L')
+
+    # Step 4: 内存管理
+    if not keep_model_loaded:
+        unload_vitmatte_model()
+        mm.soft_empty_cache()
 
     return refined_mask
