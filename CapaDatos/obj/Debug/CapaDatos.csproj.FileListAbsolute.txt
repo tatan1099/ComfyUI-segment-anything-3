@@ -1,0 +1,99 @@
+D:\Proyectos visual\Crud Evaluacion jonathan\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Proyectos visual\Crud Evaluacion jonathan\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Proyectos visual\Crud Evaluacion jonathan\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\Proyectos visual\Crud Evaluacion jonathan\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\Proyectos visual\Crud Evaluacion jonathan\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Proyectos visual\Crud Evaluacion jonathan\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\Crud Evaluacion jonathan\Crud Evaluacion jonathan\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Crud Evaluacion jonathan\Crud Evaluacion jonathan\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Crud Evaluacion jonathan\Crud Evaluacion jonathan\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\Crud Evaluacion jonathan\Crud Evaluacion jonathan\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\Crud Evaluacion jonathan\Crud Evaluacion jonathan\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Crud Evaluacion jonathan\Crud Evaluacion jonathan\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\Proyectos visual\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Proyectos visual\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Proyectos visual\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\Proyectos visual\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\Proyectos visual\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Proyectos visual\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\Proyectos visual\Crud Evaluacion jonathan 222\Crud Evaluacion jonathan\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Proyectos visual\Crud Evaluacion jonathan 222\Crud Evaluacion jonathan\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Proyectos visual\Crud Evaluacion jonathan 222\Crud Evaluacion jonathan\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\Proyectos visual\Crud Evaluacion jonathan 222\Crud Evaluacion jonathan\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\Proyectos visual\Crud Evaluacion jonathan 222\Crud Evaluacion jonathan\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Proyectos visual\Crud Evaluacion jonathan 222\Crud Evaluacion jonathan\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\Crud Evaluacion jonathan 33\Crud Evaluacion jonathan\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Crud Evaluacion jonathan 33\Crud Evaluacion jonathan\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Crud Evaluacion jonathan 33\Crud Evaluacion jonathan\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\Crud Evaluacion jonathan 33\Crud Evaluacion jonathan\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\Crud Evaluacion jonathan 33\Crud Evaluacion jonathan\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Crud Evaluacion jonathan 33\Crud Evaluacion jonathan\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\Crud Evaluacion jonathan 33\Crud Evaluacion jonathan\CapaDatos\bin\Debug\CapaEntidades.dll
+D:\Crud Evaluacion jonathan 33\Crud Evaluacion jonathan\CapaDatos\bin\Debug\CapaEntidades.pdb
+D:\Crud Evaluacion jonathan 33\Crud Evaluacion jonathan\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaDatos\bin\Debug\CapaEntidades.dll
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaDatos\bin\Debug\CapaEntidades.pdb
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaDatos\bin\Debug\BouncyCastle.Crypto.dll
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaDatos\bin\Debug\itextsharp.dll
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaDatos\bin\Debug\itextsharp.xml
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaDatos\bin\Debug\BouncyCastle.Crypto.dll
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaDatos\bin\Debug\CapaEntidades.dll
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaDatos\bin\Debug\itextsharp.dll
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaDatos\bin\Debug\CapaEntidades.pdb
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaDatos\bin\Debug\itextsharp.xml
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\CRUD JONATHAN SUBIR\CapaDatos\bin\Debug\CapaDatos.dll
+C:\CRUD JONATHAN SUBIR\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\CRUD JONATHAN SUBIR\CapaDatos\bin\Debug\BouncyCastle.Crypto.dll
+C:\CRUD JONATHAN SUBIR\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\CRUD JONATHAN SUBIR\CapaDatos\bin\Debug\itextsharp.dll
+C:\CRUD JONATHAN SUBIR\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\CRUD JONATHAN SUBIR\CapaDatos\bin\Debug\itextsharp.xml
+C:\CRUD JONATHAN SUBIR\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\CRUD JONATHAN SUBIR\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\CRUD JONATHAN SUBIR\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\CRUD JONATHAN SUBIR\CapaDatos\obj\Debug\CapaDatos.dll
+C:\CRUD JONATHAN SUBIR\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\CRUD JONATHAN SUBIR fin\CapaDatos\bin\Debug\CapaDatos.dll
+C:\CRUD JONATHAN SUBIR fin\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\CRUD JONATHAN SUBIR fin\CapaDatos\bin\Debug\BouncyCastle.Crypto.dll
+C:\CRUD JONATHAN SUBIR fin\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\CRUD JONATHAN SUBIR fin\CapaDatos\bin\Debug\itextsharp.dll
+C:\CRUD JONATHAN SUBIR fin\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\CRUD JONATHAN SUBIR fin\CapaDatos\bin\Debug\itextsharp.xml
+C:\CRUD JONATHAN SUBIR fin\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\CRUD JONATHAN SUBIR fin\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\CRUD JONATHAN SUBIR fin\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\CRUD JONATHAN SUBIR fin\CapaDatos\obj\Debug\CapaDatos.dll
+C:\CRUD JONATHAN SUBIR fin\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\CRUD JONATHAN SUBIR fin 2\CapaDatos\bin\Debug\CapaDatos.dll
+D:\CRUD JONATHAN SUBIR fin 2\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\CRUD JONATHAN SUBIR fin 2\CapaDatos\bin\Debug\BouncyCastle.Crypto.dll
+D:\CRUD JONATHAN SUBIR fin 2\CapaDatos\bin\Debug\CapaEntidades.dll
+D:\CRUD JONATHAN SUBIR fin 2\CapaDatos\bin\Debug\itextsharp.dll
+D:\CRUD JONATHAN SUBIR fin 2\CapaDatos\bin\Debug\CapaEntidades.pdb
+D:\CRUD JONATHAN SUBIR fin 2\CapaDatos\bin\Debug\itextsharp.xml
+D:\CRUD JONATHAN SUBIR fin 2\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\CRUD JONATHAN SUBIR fin 2\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\CRUD JONATHAN SUBIR fin 2\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\CRUD JONATHAN SUBIR fin 2\CapaDatos\obj\Debug\CapaDatos.dll
+D:\CRUD JONATHAN SUBIR fin 2\CapaDatos\obj\Debug\CapaDatos.pdb

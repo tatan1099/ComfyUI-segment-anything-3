@@ -1,0 +1,26 @@
+D:\Crud Evaluacion jonathan 33\Crud Evaluacion jonathan\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\Crud Evaluacion jonathan 33\Crud Evaluacion jonathan\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\Crud Evaluacion jonathan 33\Crud Evaluacion jonathan\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+D:\Crud Evaluacion jonathan 33\Crud Evaluacion jonathan\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+D:\Crud Evaluacion jonathan 33\Crud Evaluacion jonathan\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\Crud Evaluacion jonathan 33\Crud Evaluacion jonathan\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaEntidades\bin\Debug\BouncyCastle.Crypto.dll
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaEntidades\bin\Debug\itextsharp.dll
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaEntidades\bin\Debug\itextsharp.xml
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaEntidades\obj\Debug\CapaEntidades.csproj.CopyComplete
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaEntidades\bin\Debug\BouncyCastle.Crypto.dll
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaEntidades\bin\Debug\itextsharp.dll
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaEntidades\bin\Debug\itextsharp.xml
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaEntidades\obj\Debug\CapaEntidades.csproj.CopyComplete
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaEntidades\obj\Debug\CapaEntidades.pdb

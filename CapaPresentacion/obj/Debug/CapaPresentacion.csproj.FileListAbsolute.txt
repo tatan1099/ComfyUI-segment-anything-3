@@ -1,0 +1,270 @@
+D:\Proyectos visual\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\Proyectos visual\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\Proyectos visual\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\Proyectos visual\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaNegocios.dll
+D:\Proyectos visual\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+D:\Proyectos visual\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+D:\Proyectos visual\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos visual\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+D:\Proyectos visual\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.InicioVendedores.resources
+D:\Proyectos visual\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\Proyectos visual\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\Proyectos visual\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\Proyectos visual\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\Proyectos visual\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\Proyectos visual\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\Proyectos visual\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\Proyectos visual\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\Proyectos visual\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.dF.resources
+D:\Proyectos visual\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.Vendedoresp.resources
+D:\Crud Evaluacion jonathan\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+D:\Crud Evaluacion jonathan\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+D:\Crud Evaluacion jonathan\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.dF.resources
+D:\Crud Evaluacion jonathan\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+D:\Crud Evaluacion jonathan\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.InicioVendedores.resources
+D:\Crud Evaluacion jonathan\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\Crud Evaluacion jonathan\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.Vendedoresp.resources
+D:\Crud Evaluacion jonathan\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\Crud Evaluacion jonathan\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\Crud Evaluacion jonathan\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\Crud Evaluacion jonathan\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\Crud Evaluacion jonathan\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\Crud Evaluacion jonathan\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\Crud Evaluacion jonathan\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\Crud Evaluacion jonathan\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaNegocios.dll
+D:\Crud Evaluacion jonathan\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\Crud Evaluacion jonathan\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+D:\Crud Evaluacion jonathan\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\Crud Evaluacion jonathan\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\Proyectos visual\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\Proyectos visual\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\Proyectos visual\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\Proyectos visual\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaNegocios.dll
+D:\Proyectos visual\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\Proyectos visual\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+D:\Proyectos visual\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\Proyectos visual\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+D:\Proyectos visual\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos visual\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.dF.resources
+D:\Proyectos visual\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+D:\Proyectos visual\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.InicioVendedores.resources
+D:\Proyectos visual\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\Proyectos visual\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.Vendedoresp.resources
+D:\Proyectos visual\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\Proyectos visual\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\Proyectos visual\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\Proyectos visual\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\Proyectos visual\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\Proyectos visual\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.Productos.resources
+D:\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+D:\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+D:\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.dF.resources
+D:\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+D:\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.InicioVendedores.resources
+D:\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.Productos.resources
+D:\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.Vendedoresp.resources
+D:\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaNegocios.dll
+D:\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+D:\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\Crud Evaluacion jonathan 2\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.Factura.resources
+D:\Proyectos visual\Crud Evaluacion jonathan 222\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\Proyectos visual\Crud Evaluacion jonathan 222\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\Proyectos visual\Crud Evaluacion jonathan 222\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\Proyectos visual\Crud Evaluacion jonathan 222\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaNegocios.dll
+D:\Proyectos visual\Crud Evaluacion jonathan 222\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\Proyectos visual\Crud Evaluacion jonathan 222\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+D:\Proyectos visual\Crud Evaluacion jonathan 222\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\Proyectos visual\Crud Evaluacion jonathan 222\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+D:\Proyectos visual\Crud Evaluacion jonathan 222\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos visual\Crud Evaluacion jonathan 222\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.dF.resources
+D:\Proyectos visual\Crud Evaluacion jonathan 222\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.Factura.resources
+D:\Proyectos visual\Crud Evaluacion jonathan 222\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+D:\Proyectos visual\Crud Evaluacion jonathan 222\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.InicioVendedores.resources
+D:\Proyectos visual\Crud Evaluacion jonathan 222\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.Productos.resources
+D:\Proyectos visual\Crud Evaluacion jonathan 222\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\Proyectos visual\Crud Evaluacion jonathan 222\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.Vendedoresp.resources
+D:\Proyectos visual\Crud Evaluacion jonathan 222\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\Proyectos visual\Crud Evaluacion jonathan 222\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\Proyectos visual\Crud Evaluacion jonathan 222\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\Proyectos visual\Crud Evaluacion jonathan 222\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\Proyectos visual\Crud Evaluacion jonathan 222\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\Crud Evaluacion jonathan 33\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+D:\Crud Evaluacion jonathan 33\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+D:\Crud Evaluacion jonathan 33\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.dF.resources
+D:\Crud Evaluacion jonathan 33\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.Factura.resources
+D:\Crud Evaluacion jonathan 33\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+D:\Crud Evaluacion jonathan 33\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.InicioVendedores.resources
+D:\Crud Evaluacion jonathan 33\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.Productos.resources
+D:\Crud Evaluacion jonathan 33\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\Crud Evaluacion jonathan 33\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.Vendedoresp.resources
+D:\Crud Evaluacion jonathan 33\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\Crud Evaluacion jonathan 33\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\Crud Evaluacion jonathan 33\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\Crud Evaluacion jonathan 33\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\Crud Evaluacion jonathan 33\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\Crud Evaluacion jonathan 33\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\Crud Evaluacion jonathan 33\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\Crud Evaluacion jonathan 33\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaNegocios.dll
+D:\Crud Evaluacion jonathan 33\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\Crud Evaluacion jonathan 33\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+D:\Crud Evaluacion jonathan 33\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\Crud Evaluacion jonathan 33\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\Crud Evaluacion jonathan 33\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaEntidades.dll
+D:\Crud Evaluacion jonathan 33\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaEntidades.dll
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaNegocios.dll
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.dF.resources
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.Factura.resources
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.InicioVendedores.resources
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.Productos.resources
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.Vendedoresp.resources
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.Backe.resources
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.ResolveComReference.cache
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\itextsharp.dll
+D:\Proyectos visual\Crud Evaluacion jonathan 44\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\itextsharp.xml
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaEntidades.dll
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaNegocios.dll
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\itextsharp.dll
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\itextsharp.xml
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.ResolveComReference.cache
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.Backe.resources
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.dF.resources
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.Factura.resources
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.InicioVendedores.resources
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.Productos.resources
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.Vendedoresp.resources
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\Crud Evaluacion jonathan 55\Crud Evaluacion jonathan\CapaPresentacion\obj\Debug\CapaPresentacion.Clientes.resources
+C:\CRUD JONATHAN SUBIR\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\CRUD JONATHAN SUBIR\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\CRUD JONATHAN SUBIR\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\CRUD JONATHAN SUBIR\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\CRUD JONATHAN SUBIR\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\CRUD JONATHAN SUBIR\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\CRUD JONATHAN SUBIR\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\CRUD JONATHAN SUBIR\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\CRUD JONATHAN SUBIR\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\CRUD JONATHAN SUBIR\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\CRUD JONATHAN SUBIR\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\CRUD JONATHAN SUBIR\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\CRUD JONATHAN SUBIR\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\CRUD JONATHAN SUBIR\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\CRUD JONATHAN SUBIR\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.ResolveComReference.cache
+C:\CRUD JONATHAN SUBIR\CapaPresentacion\obj\Debug\CapaPresentacion.Backe.resources
+C:\CRUD JONATHAN SUBIR\CapaPresentacion\obj\Debug\CapaPresentacion.Clientes.resources
+C:\CRUD JONATHAN SUBIR\CapaPresentacion\obj\Debug\CapaPresentacion.dF.resources
+C:\CRUD JONATHAN SUBIR\CapaPresentacion\obj\Debug\CapaPresentacion.Factura.resources
+C:\CRUD JONATHAN SUBIR\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\CRUD JONATHAN SUBIR\CapaPresentacion\obj\Debug\CapaPresentacion.InicioVendedores.resources
+C:\CRUD JONATHAN SUBIR\CapaPresentacion\obj\Debug\CapaPresentacion.Productos.resources
+C:\CRUD JONATHAN SUBIR\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\CRUD JONATHAN SUBIR\CapaPresentacion\obj\Debug\CapaPresentacion.Vendedoresp.resources
+C:\CRUD JONATHAN SUBIR\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\CRUD JONATHAN SUBIR\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\CRUD JONATHAN SUBIR\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\CRUD JONATHAN SUBIR\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\CRUD JONATHAN SUBIR\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\CRUD JONATHAN SUBIR\CapaPresentacion\obj\Debug\CapaPresentacion.Inventario.resources
+C:\CRUD JONATHAN SUBIR fin\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\CRUD JONATHAN SUBIR fin\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\CRUD JONATHAN SUBIR fin\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\CRUD JONATHAN SUBIR fin\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\CRUD JONATHAN SUBIR fin\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\CRUD JONATHAN SUBIR fin\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\CRUD JONATHAN SUBIR fin\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\CRUD JONATHAN SUBIR fin\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\CRUD JONATHAN SUBIR fin\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\CRUD JONATHAN SUBIR fin\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\CRUD JONATHAN SUBIR fin\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\CRUD JONATHAN SUBIR fin\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\CRUD JONATHAN SUBIR fin\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\CRUD JONATHAN SUBIR fin\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\CRUD JONATHAN SUBIR fin\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.ResolveComReference.cache
+C:\CRUD JONATHAN SUBIR fin\CapaPresentacion\obj\Debug\CapaPresentacion.Backe.resources
+C:\CRUD JONATHAN SUBIR fin\CapaPresentacion\obj\Debug\CapaPresentacion.Clientes.resources
+C:\CRUD JONATHAN SUBIR fin\CapaPresentacion\obj\Debug\CapaPresentacion.dF.resources
+C:\CRUD JONATHAN SUBIR fin\CapaPresentacion\obj\Debug\CapaPresentacion.Factura.resources
+C:\CRUD JONATHAN SUBIR fin\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\CRUD JONATHAN SUBIR fin\CapaPresentacion\obj\Debug\CapaPresentacion.InicioVendedores.resources
+C:\CRUD JONATHAN SUBIR fin\CapaPresentacion\obj\Debug\CapaPresentacion.Inventario.resources
+C:\CRUD JONATHAN SUBIR fin\CapaPresentacion\obj\Debug\CapaPresentacion.Productos.resources
+C:\CRUD JONATHAN SUBIR fin\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\CRUD JONATHAN SUBIR fin\CapaPresentacion\obj\Debug\CapaPresentacion.Vendedoresp.resources
+C:\CRUD JONATHAN SUBIR fin\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\CRUD JONATHAN SUBIR fin\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\CRUD JONATHAN SUBIR fin\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\CRUD JONATHAN SUBIR fin\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\CRUD JONATHAN SUBIR fin\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\CRUD JONATHAN SUBIR fin 2\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\CRUD JONATHAN SUBIR fin 2\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\CRUD JONATHAN SUBIR fin 2\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\CRUD JONATHAN SUBIR fin 2\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+D:\CRUD JONATHAN SUBIR fin 2\CapaPresentacion\bin\Debug\CapaEntidades.dll
+D:\CRUD JONATHAN SUBIR fin 2\CapaPresentacion\bin\Debug\CapaNegocios.dll
+D:\CRUD JONATHAN SUBIR fin 2\CapaPresentacion\bin\Debug\itextsharp.dll
+D:\CRUD JONATHAN SUBIR fin 2\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\CRUD JONATHAN SUBIR fin 2\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+D:\CRUD JONATHAN SUBIR fin 2\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+D:\CRUD JONATHAN SUBIR fin 2\CapaPresentacion\bin\Debug\itextsharp.xml
+D:\CRUD JONATHAN SUBIR fin 2\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\CRUD JONATHAN SUBIR fin 2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+D:\CRUD JONATHAN SUBIR fin 2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+D:\CRUD JONATHAN SUBIR fin 2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.ResolveComReference.cache
+D:\CRUD JONATHAN SUBIR fin 2\CapaPresentacion\obj\Debug\CapaPresentacion.Backe.resources
+D:\CRUD JONATHAN SUBIR fin 2\CapaPresentacion\obj\Debug\CapaPresentacion.Clientes.resources
+D:\CRUD JONATHAN SUBIR fin 2\CapaPresentacion\obj\Debug\CapaPresentacion.dF.resources
+D:\CRUD JONATHAN SUBIR fin 2\CapaPresentacion\obj\Debug\CapaPresentacion.Factura.resources
+D:\CRUD JONATHAN SUBIR fin 2\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+D:\CRUD JONATHAN SUBIR fin 2\CapaPresentacion\obj\Debug\CapaPresentacion.InicioVendedores.resources
+D:\CRUD JONATHAN SUBIR fin 2\CapaPresentacion\obj\Debug\CapaPresentacion.Inventario.resources
+D:\CRUD JONATHAN SUBIR fin 2\CapaPresentacion\obj\Debug\CapaPresentacion.Productos.resources
+D:\CRUD JONATHAN SUBIR fin 2\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\CRUD JONATHAN SUBIR fin 2\CapaPresentacion\obj\Debug\CapaPresentacion.Vendedoresp.resources
+D:\CRUD JONATHAN SUBIR fin 2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\CRUD JONATHAN SUBIR fin 2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\CRUD JONATHAN SUBIR fin 2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\CRUD JONATHAN SUBIR fin 2\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\CRUD JONATHAN SUBIR fin 2\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
